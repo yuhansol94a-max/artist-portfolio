@@ -26,7 +26,7 @@ const content = {
     { jp: "ドラマ、ミュージカル", ko: "드라마, 뮤지컬" },
     { jp: "舞台メイク、公演メイク", ko: "무대메이크, 공연 메이크업" }
   ],
-  brandPortfolioTitle: { jp: "Brand Portfolio / プロジェクト実績", ko: "Brand Portfolio / 프로젝트 실적" },
+  brandPortfolioTitle: { jp: "Brand Portfolio / プロジェクト実績", ko: "Brand Portfolio / 프로젝트" },
   brands: ["NATURE REPUBLIC", "LUNA", "YUHAN beauty care", "INGA", "GASH", "CHARDE"],
   galleryLabels: {
     slide3: { jp: "", ko: "" },
@@ -36,7 +36,7 @@ const content = {
     slide7: { jp: "", ko: "" },
     slide8: { jp: "", ko: "" }
   },
-  bridalPortfolioSubtitle: { jp: "ウェディング・ブライダル実績", ko: "웨딩・브라이달 실적" },
+  bridalPortfolioSubtitle: { jp: "ウェディング・ブライダル実績", ko: "웨딩・브라이덜" },
   broadcastingTitle: { jp: "Entertainment & Broadcasting", ko: "Entertainment & Broadcasting" },
   broadcastingSub: { jp: "主要放送", ko: "주요 방송" },
   editorialTitle: { jp: "Artist & Celebrity Editorial", ko: "Artist & Celebrity Editorial" },
